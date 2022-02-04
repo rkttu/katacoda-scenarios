@@ -19,6 +19,3 @@ sudo apt-get update
 
 # Install PowerShell
 sudo apt-get install -y powershell < "/dev/null"
-
-# Start PowerShell
-pwsh
