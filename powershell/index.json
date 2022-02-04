@@ -20,7 +20,7 @@
       ],
       "intro": {
         "text": "intro.md",
-        "code": "foreground.ps1"
+        "code": "foreground.sh"
       },
       "finish": {
         "text": "finish.md"
