@@ -1,19 +1,18 @@
-# Finish
+# 마무리
 
-On the finish page, summarize what was just learned:
+마무리 페이지에서는 지금까지 배운 내용이 무엇인지 기재합니다.
 
-- 3-4 bullets
-- of what you just
-- did and learned
+- 3줄 ~ 4줄 정도로 표시합니다.
+- 무엇을 배웠는지 하나씩 기재합니다.
 
-## Table of Contents
+## 목차
 
-If the scenario is part of a set of related scenarios, the table of contents will appear here as a bulleted list of all the scenario titles, with links to each other.
+이 시나리오가 다른 시나리오와 연계되는 학습 과정이라면, 아래의 목록에 연관되는 모든 시라니오의 제목과 각각의 링크를 추가해주세요.
 
-- Scenario A
-- Scenario B
-- Scenario C
+- 시나리오 A
+- 시나리오 B
+- 시나리오 C
 
-## Further Learning
+## 추가 학습 자료
 
-You could link to other learning resources here. What is a good next step for a learner who just completed this scenario?
+다른 학습 자료들을 이곳에 추가로 기재할 수 있습니다. 이 시나리오를 마무리하기 위해, 그리고 학습 이해도를 더 높이기 위해 필요한 것을 여기에 추가해주세요.

@@ -1,7 +1,7 @@
-# Heading for Step 1
+# 1단계
 
-This is some text.
+여기에 각 단계에 대한 본문을 넣어주세요.
 
-Here's a single line of runnable code:
+아래와 같이 실행하려는 코드를 기재해주세요.
 
 `printf 'Hello, world!\n\n'`{{execute}}

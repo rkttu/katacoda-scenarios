@@ -1,29 +1,28 @@
-# New Scenario Template (Your Title Here)
+# 새로운 시나리오 템플릿 (제목을 입력하세요.)
 
-This is a mostly empty template. To create your own first scenario, duplicate this in your own repo, then modify it as needed.
+이 템플릿은 Katacoda에서 콘텐츠를 저작하기 위해 필요한 기본적인 내용만 담고 있습니다. 여러분만의 시나리오를 만들기 위해 이 리포지터리를 복제하거나 포크한 다음, 내용을 수정하여 채워넣도록 합니다.
 
-## Description
+## 설명
 
-2-3 sentences on what the scenario covers, illustrates, and teaches. What technology is used, and what task will the learner have accomplished by the end?
+두 세 문장 정도로 이 시나리오가 다루는 내용과 무엇을 알려줄 수 있는지 설명하는 문장을 추가해주세요. 어떤 기술이 사용되었고, 수강생이 이 과정을 마치면 무엇을 알 수 있는지 이야기해주세요.
 
-Importantly, why does this matter? What can this technology, tool, or approach help you accomplish? Briefly communicate the real-world application(s) of this skill.
+왜 이 내용이 중요한지, 알려주는 기술, 도구, 혹은 방법론이 여러분에게 어떤 도움이 될 수 있는지 알리는 것이 중요합니다. 여기서 다루는 내용이 실제 업무나 상황에 어떻게 도움이 되는지 간단히 알려주세요.
 
-## Learning Objective
+## 학습 목표
 
-- 3-4 bullets
-- of what you
-- will learn
+- 3줄 ~ 4줄 정도로 표시합니다.
+- 무엇을 배우게 될지 하나씩 기재합니다.
 
-## Prerequisite Skills
+## 선수 지식
 
-Define the target audience here, and list any prerequisite skills. For example:
+이 과정을 학습할 대상을 정의하고, 미리 알아야 할 내용을 기재해주세요. 예를 들어 다음과 같습니다.
 
-This is for software developers with prior experience using Jenkins to deploy web applications.
+이 과정은 Jenkins를 사용하여 웹 애플리케이션을 배포한 경험이 있는 소프트웨어 개발자를 위한 것입니다.
 
-## Table of Contents
+## 목차
 
-If the scenario is part of a set of related scenarios, the table of contents will appear here as a bulleted list of all the scenario titles, with links to each other.
+이 시나리오가 다른 시나리오와 연계되는 학습 과정이라면, 아래의 목록에 연관되는 모든 시라니오의 제목과 각각의 링크를 추가해주세요.
 
-- Scenario A
-- Scenario B
-- Scenario C
+- 시나리오 A
+- 시나리오 B
+- 시나리오 C

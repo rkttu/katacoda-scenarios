@@ -1,20 +1,20 @@
 {
-    "title": "New Scenario Template",
-    "description": "A simple scenario example.",
-    "difficulty": "Beginner",
-    "time": "3 minutes",
+    "title": "새로운 시나리오 템플릿",
+    "description": "예제 시나리오입니다.",
+    "difficulty": "초보자용",
+    "time": "3분",
     "details": {
       "steps": [
         {
-          "title": "Step 1",
+          "title": "1단계",
           "text": "step1.md"
         },
         {
-          "title": "Step 2",
+          "title": "2단계",
           "text": "step2.md"
         },
         {
-          "title": "Step 3",
+          "title": "3단계",
           "text": "step3.md"
         }
       ],
