@@ -30,6 +30,6 @@
       "uilayout": "terminal"
     },
     "backend": {
-      "imageid": "mcr.microsoft.com/powershell:lts-ubuntu-18.04"
+      "imageid": "ubuntu:1804"
     }
   }
