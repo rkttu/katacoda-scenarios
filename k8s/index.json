@@ -3,6 +3,15 @@
     "description": "예제 시나리오입니다.",
     "difficulty": "초보자용",
     "time": "3분",
+    "environment": {
+      "uilayout": "terminal"
+    },
+    "backend": {
+      "imageid": "kubernetes-cluster-running:1.21"
+    },
+    "interface": {
+      "layout": "ide"
+    },
     "details": {
       "steps": [
         {
@@ -25,11 +34,5 @@
       "finish": {
         "text": "finish.md"
       }
-    },
-    "environment": {
-      "uilayout": "terminal"
-    },
-    "backend": {
-      "imageid": "kubernetes-cluster-running:1.21"
     }
   }
