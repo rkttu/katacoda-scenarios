@@ -11,7 +11,10 @@ sudo apt-get update
 ## 2. Q CLI 설치 스크립트 다운로드 및 실행
 
 ```bash
-curl -sSL https://amazon-q-cli.s3.amazonaws.com/install.sh | sudo bash
+curl --proto '=https' --tlsv1.2 -sSf "https://desktop-release.q.us-east-1.amazonaws.com/latest/q-x86_64-linux.zip" -o "q.zip"
+unzip -o q.zip
+./q/install.sh --force --no-confirm
+source ~/.bashrc
 ```{{exec}}
 
 ## 3. 설치 확인
