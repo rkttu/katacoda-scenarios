@@ -13,17 +13,17 @@
         },
         "steps": [
             {
-                "title": "1. Q Developer CLI 설치하기",
+                "title": "Q Developer CLI 설치하기",
                 "text": "01-install-q-dev-cli.md",
                 "verify": "01-verify.sh"
             },
             {
-                "title": "2. Q Developer CLI 로그인",
+                "title": "Q Developer CLI 로그인",
                 "text": "02-login-q-dev-cli.md",
                 "verify": "02-verify.sh"
             },
             {
-                "title": "3. Q Developer CLI로 AI와 채팅하기",
+                "title": "Q Developer CLI로 AI와 채팅하기",
                 "text": "03-chat-with-q-dev-cli.md"
             }
         ],
